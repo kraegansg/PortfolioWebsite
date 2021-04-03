@@ -136,6 +136,9 @@ nav li a:hover, a:active{
 /* About Section */
 
 
+.about_bodytext {
+    margin: 0 2em 0 0;
+}
 
 .about {
     position: relative;
